@@ -1,0 +1,7 @@
+{
+    "name": "Start Credit Mod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Kaufeen/StartCreditMod",
+    "description": "Set the amount of credits to start with in config",
+	"dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
